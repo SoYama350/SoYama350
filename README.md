@@ -122,7 +122,7 @@
 <p>
   <a href="https://github.com/SoYama350"><img src="https://img.shields.io/badge/GitHub-SoYama350-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Email-coming_soon-666?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mohamedkhaled.eg58@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedkhaled.eg58@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Egypt_|_Remote-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
