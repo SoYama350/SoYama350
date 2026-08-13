@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated typing header -->
+<!-- Animated  typing header -->
 <a href="https://github.com/SoYama350">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=80&lines=Hi%2C+I'm+Mohamed+Khaled;Full-Stack+Developer+%E2%80%A2+AI+Web+Apps" alt="Typing SVG" />
 </a>
