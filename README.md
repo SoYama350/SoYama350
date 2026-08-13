@@ -124,6 +124,8 @@
   &nbsp;
   <a href="mailto:mohamedkhaled.eg58@gmail.com"><img src="https://img.shields.io/badge/Email-mohamedkhaled.eg58@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/mohamed-khaled-20256a182"><img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Khaled-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
   <img src="https://img.shields.io/badge/Location-Egypt_|_Remote-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
