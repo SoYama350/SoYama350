@@ -25,7 +25,7 @@
 <!-- Quick intro -->
 <p align="center"><em>I turn ideas into shipped products — from scoping requirements to building the backend, wiring up auth &amp; payments, and deploying to production. Most of my work pairs <strong>Next.js + Supabase + the Vercel AI SDK</strong>.</em></p>
 
-<p align="center"><sub>🚧 Profile page is a work in progress while I finish my internship — the featured projects below are real &amp; deployed.</sub></p>
+<p align="center"><sub>Profile page is a work in progress while I finish my internship — the featured projects below are real &amp; deployed.</sub></p>
 <div align='center'>
   <img src='assets/keepers/hero-grid.png' alt='Hero texture — fine code grid, dark navy, thin electric-blue threads' width='100%' />
 </div>
@@ -36,18 +36,6 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Task Supervisor</h3>
-      <p align="center"><em>An AI workflow orchestrator that turns messy to-do lists into a prioritized daily plan on the Eisenhower Matrix.</em></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI-412A93?style=flat-square&logo=openai&logoColor=white" />
-      </p>
-      <p align="center">Feature-flagged AI · token usage &amp; quotas · admin dashboard · CSAT survey · 90-day kill-switch · unit tests</p>
-      <p align="center"><a href="https://github.com/SoYama350/ai-task-supervisor-mvp">📂 Code</a> · <a href="https://github.com/SoYama350/ai-task-supervisor-mvp/blob/main/requirements.md">📄 Spec</a></p>
-    </td>
     <td width="50%" valign="top">
       <h3 align="center">📈 AEO.ai</h3>
       <p align="center"><em>An "Answer Engine Optimization" SaaS that scores content for AI-search citation readiness.</em></p>
@@ -61,41 +49,36 @@
       <p align="center"><a href="https://github.com/SoYama350/aeo-ai">📂 Code</a> · <a href="https://my-business-opencode.vercel.app">🚀 Live demo</a></p>
       <p align="center"><a href="assets/real-captures/aeoai-landing.png"><img src="assets/real-captures/aeoai-landing.png" alt="AEO.ai live demo — real screenshot" width="100%"/></a></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Forge Gaming — Capstone</h3>
-      <p align="center"><em>A gaming web application capstone built with React + Vite + TypeScript.</em></p>
+      <h3 align="center">⚡ GigFlow</h3>
+      <p align="center"><em>Freelance gig automation: scrapes remote gigs, auto-applies,and tracks apply-rate per source.Deployed on GitHub Pages.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/React_Router-7-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" />
       </p>
-      <p align="center">Auth flows · routing · component architecture</p>
-      <p align="center"><a href="https://github.com/SoYama350/Capstone">📂 Code</a></p>
+      <p align="center">Scraper pipeline · auto-apply · analytics per source · real data</p>
+      <p align="center"><a href="https://github.com/SoYama350/Gig-flow">📂 Code</a> · <a href="https://soyama350.github.io/Gig-flow/">🚀 Live app</a></p>
+      <p align="center">
+        <a href="assets/real-captures/gigflow-dashboard.png"><img src="assets/real-captures/gigflow-dashboard.png" alt="GigFlow dashboard — real screenshot" width="49%"/></a>
+        <a href="assets/real-captures/gigflow-analytics.png"><img src="assets/real-captures/gigflow-analytics.png" alt="GigFlow analytics — real screenshot" width="49%"/></a>
+      </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3 align="center">👶 Parenting Mentor</h3>
-      <p align="center"><em>An app that helps new parents raise kids and break bad habits (AI-assisted).</em></p>
+      <p align="center"><em>An app that helps new parents raise kids and break bad habits (AI-assisted.</em></p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_AI-412A93?style=flat-square&logo=google&logoColor=white" />
       </p>
-      <p align="center">Built with Google AI Studio</p>
+      <p align="center">Built with Google AI Studio · no live demo yet</p>
       <p align="center"><a href="https://github.com/SoYama350/parenting-mentor-app">📂 Code</a></p>
     </td>
   </tr>
 </table>
-<div align="center"><h3>⚡ GigFlow — live, real data</h3><p><em>Freelance gig automation: scrapes remote gigs, auto-applies, and tracks apply-rate per source. Deployed on GitHub Pages with live data.</em></p>
-<p>
-  <a href="https://github.com/SoYama350/Gig-flow">📂 Code</a> · <a href="https://soyama350.github.io/Gig-flow/">🚀 Live app</a>
-</p>
-<table><tr>
-  <td width="50%"><a href="assets/real-captures/gigflow-dashboard.png"><img src="assets/real-captures/gigflow-dashboard.png" alt="GigFlow dashboard — real screenshot" width="100%"/></a><p align="center"><sub>Dashboard — real data</sub></p></td>
-  <td width="50%"><a href="assets/real-captures/gigflow-analytics.png"><img src="assets/real-captures/gigflow-analytics.png" alt="GigFlow analytics — real screenshot" width="100%"/></a><p align="center"><sub>Analytics — 17% applied-rate</sub></p></td>
-</tr></table>
-</div>
 
 
 ---
