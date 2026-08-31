@@ -25,7 +25,10 @@
 <!-- Quick intro -->
 <p align="center"><em>I turn ideas into shipped products — from scoping requirements to building the backend, wiring up auth &amp; payments, and deploying to production. Most of my work pairs <strong>Next.js + Supabase + the Vercel AI SDK</strong>.</em></p>
 
-<p align="center"><sub>🚧 Profile page is a work in progress while I finish my internship — the featured projects below are real & deployed.</sub></p>
+<p align="center"><sub>🚧 Profile page is a work in progress while I finish my internship — the featured projects below are real &amp; deployed.</sub></p>
+<div align='center'>
+  <img src='assets/keepers/hero-grid.png' alt='Hero texture — fine code grid, dark navy, thin electric-blue threads' width='100%' />
+</div>
 
 ---
 
@@ -56,6 +59,7 @@
       </p>
       <p align="center">Freemium limits · subscription tiers · AI analysis API · Supabase migrations + RLS · deployed on Vercel</p>
       <p align="center"><a href="https://github.com/SoYama350/aeo-ai">📂 Code</a> · <a href="https://my-business-opencode.vercel.app">🚀 Live demo</a></p>
+      <p align="center"><a href="assets/real-captures/aeoai-landing.png"><img src="assets/real-captures/aeoai-landing.png" alt="AEO.ai live demo — real screenshot" width="100%"/></a></p>
     </td>
   </tr>
   <tr>
@@ -83,6 +87,16 @@
     </td>
   </tr>
 </table>
+<div align="center"><h3>⚡ GigFlow — live, real data</h3><p><em>Freelance gig automation: scrapes remote gigs, auto-applies, and tracks apply-rate per source. Deployed on GitHub Pages with live data.</em></p>
+<p>
+  <a href="https://github.com/SoYama350/Gig-flow">📂 Code</a> · <a href="https://soyama350.github.io/Gig-flow/">🚀 Live app</a>
+</p>
+<table><tr>
+  <td width="50%"><a href="assets/real-captures/gigflow-dashboard.png"><img src="assets/real-captures/gigflow-dashboard.png" alt="GigFlow dashboard — real screenshot" width="100%"/></a><p align="center"><sub>Dashboard — real data</sub></p></td>
+  <td width="50%"><a href="assets/real-captures/gigflow-analytics.png"><img src="assets/real-captures/gigflow-analytics.png" alt="GigFlow analytics — real screenshot" width="100%"/></a><p align="center"><sub>Analytics — 17% applied-rate</sub></p></td>
+</tr></table>
+</div>
+
 
 ---
 
@@ -119,6 +133,7 @@
 
 ## 📬 Connect
 
+  <p><a href="assets/keepers/me-avatar.png"><img src="assets/keepers/me-avatar.png" alt="Mohamed Khaled — real photo" width="120" style="border-radius:50%"/></a></p>
 <p>
   <a href="https://github.com/SoYama350"><img src="https://img.shields.io/badge/GitHub-SoYama350-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   &nbsp;
